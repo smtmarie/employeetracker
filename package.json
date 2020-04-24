@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smtmarie/employeetracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smtmarie/employeetracker/issues"
+  },
+  "homepage": "https://github.com/smtmarie/employeetracker#readme",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  }
 }
